@@ -1,1 +1,4 @@
 /.env
+key.json
+*.exe
+.vscode/settings.json
